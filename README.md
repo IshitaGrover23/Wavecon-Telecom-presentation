@@ -1,15 +1,15 @@
-Wavecon Telecom 5G Impact Analysis
+📡 Wavecon Telecom 5G Impact Analysis
 
-Project Overview
+🔍 Project Overview
 This repository contains a comprehensive analysis of the impact of 5G technology rollout on Wavecon Telecom's business operations. The analysis was conducted during a Week 2 virtual internship with AtliQ Technologies, focusing on transforming raw telecom data into actionable business intelligence using PowerBI dashboards.
-Company Context
+🏢 Company Context
 
 India's 3rd largest telecom provider
 161.7M active users across 15 key markets (pre-5G)
 Nationwide 5G rollout in Q1 2025
 ₹31.9B in total revenue (pre-5G)
 
-Key Findings
+📊 Key Findings
 
 Revenue Impact: 0.50% decline (₹80M) despite 11.05% increase in ARPU
 User Base: 8.28% decrease in active users (84.4M → 77.4M)
@@ -17,7 +17,7 @@ Unsubscription Crisis: 23.5% increase in unsubscriptions (5.6M → 7.0M)
 Geographic Variation: 6 cities showing growth vs. 5 cities with >2% decline
 Plan Performance: Identified underperforming plans, with plan p7 (25GB Combo 3G/4G Data Pack) showing 73% revenue decline
 
-Critical Issues Identified
+⚠️ Critical Issues Identified
 
 Primary Unsubscription Hotspots:
 
@@ -34,8 +34,8 @@ Competitors: PIO_Ms (~36% dominant) and Britel_Ms (27.4%, slight decline)
 
 
 
-Strategic Recommendations
-Short-Term (0-3 Months)
+💡 Strategic Recommendations
+🕒 Short-Term (0-3 Months)
 
 Launch "5G Value+" campaigns in Delhi and Chennai
 Scale successful plans from Lucknow to similar markets
@@ -49,20 +49,20 @@ Conduct network quality audit in problem areas
 
 
 
-Medium-Term (3-12 Months)
+📅 Medium-Term (3-12 Months)
 
 Implement ARPU enhancement initiatives (₹200.7 → ₹225+)
 Prioritize infrastructure improvements in negative-growth cities
 Develop unique 5G service bundles and partnerships
 
-Priority Cities for 5G Investment
+🌆 Priority Cities for 5G Investment
 
 Mumbai & Patna: High ARPU + large revenue base
 Lucknow: Positive user growth trend (+2.65%) despite overall decline
 Coimbatore: Strong ARPU growth (+8.25%) indicates potential
 Target these cities to generate additional ₹1.2B in annual revenue
 
-Competitive Strategy
+🥇 Competitive Strategy
 
 vs. PIO_Ms (36% market share):
 
@@ -77,11 +77,11 @@ Implement retention program targeting their customers in Patna & Coimbatore
 
 
 
-Tools & Technologies
+🛠️ Tools & Technologies
 
 PowerBI: Primary tool for dashboard creation and data visualization
 
-Project Contents
+📂 Project Contents
 
 PowerBI dashboards visualizing:
 
@@ -95,4 +95,4 @@ Strategic recommendations
 
 
 
-This analysis was completed as part of my virtual internship with AtliQ Technologies.
+This analysis was completed as part of a virtual internship with AtliQ Technologies. ✨
