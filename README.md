@@ -86,10 +86,15 @@ PowerBI: Primary tool for dashboard creation and data visualization
 PowerBI dashboards visualizing:
 
 Revenue impact analysis
+
 City-wise performance metrics
+
 Plan performance assessment
+
 Unsubscription analysis and action planning
+
 Competitive positioning analysis
+
 Strategic recommendations
 
 
